@@ -5,12 +5,8 @@ Họ Tên:Đỗ Minh Đăng
 MSSV: 23810310294
 
 
-![Home Screen 1](./my-app/assets/HomeScreen1.png)
-![Home Screen 2](./my-app/assets/HomeScreen2.png)
-
-
-![Explore Screen](./my-app/assets/ExploreScreen.png)
-![Beverages](./my-app/assets/BeveragesScreen.png)
-
-
-![Detail](./my-app/assets/ProductDetailScreen.png)
+![Home Screen 1](assets/HomeScreen1.png)
+![Home Screen 2](assets/HomeScreen2.png)
+![Detail](assets/ProductDetailScreen.png)
+![Explore Screen](assets/ExploreScreen.png)
+![Beverages](assets/BeveragesScreen.png)
